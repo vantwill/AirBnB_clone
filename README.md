@@ -184,8 +184,3 @@ echo "python3 -m unittest discover tests" | bash
 ```
 
   
-## Authors :pen:
-
--   **Juan Sebastian Perea**  <[Juanse1595](https://github.com/Juanse1595)> | [@JuanSePeBe95](https://twitter.com/JuanSePeBe95)
-
--   **Juan Sebastian Gonzalez**  <[JuanSebastianGB](https://github.com/JuanSebastianGB)> | [@juancho1141](https://twitter.com/juancho1141)
